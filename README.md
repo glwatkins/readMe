@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Test
 ----
 ls
-This is a real shambles
-:
+sambles
+
+=======
+
+
