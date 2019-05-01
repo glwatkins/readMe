@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 Test
 =====
-ls
-sambles
+This is a shambles
+------------------
 I am quite confused
-=======
-
-
